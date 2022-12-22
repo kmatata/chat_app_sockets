@@ -1,7 +1,8 @@
 # chat_app_sockets
 
 
-![Screen_Recording_2022-12-22_at_19_53_23_AdobeExpress-2](https://user-images.githubusercontent.com/95537935/209198921-5b2c9eea-bc72-483a-ad61-55e12ab4e3c1.gif)
+![gifgitchat](https://user-images.githubusercontent.com/95537935/209209443-a691f2c5-c293-4844-adbc-1d5eebc59be8.gif)
+
 
 
 
