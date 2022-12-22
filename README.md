@@ -5,9 +5,9 @@
 
 
 
-simple chat app:
+# simple chat app:
 
-built with python-dajngo
-with a psql db
-channels for async comms and served with a daphne and uwsgi socket
-nginx as reverse proxy
+- built with python-dajngo
+- with a psql db
+- channels for async comms and served with a daphne and uwsgi socket
+- nginx as reverse proxy
